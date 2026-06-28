@@ -1,0 +1,8 @@
+markd_app\
+├── app.py
+├── requirements.txt
+├── templates\
+│   └── index.html
+└── static\
+    └── css\
+        └── style.css
